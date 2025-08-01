@@ -89,6 +89,8 @@ You've finished installing KZTimer, the next steps are not required for a functi
 
 ## 6. Useful plugins (optional)
 
+The [FixHintColorMessages](https://github.com/Franc1sco/FixHintColorMessages) plugin is recommended for KZTimer - without it the Speed panel will not show properly.
+
 Install other useful plugins from the [Useful plugins](/guides/useful-plugins) guide.
 
 ## 7. Apply for Global Whitelist (optional)
