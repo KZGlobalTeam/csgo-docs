@@ -27,3 +27,7 @@ StackBlitz lets you easily play around with the project without setting up a loc
 
 The project can imported with: <https://stackblitz.com/github/kzglobalteam/docs>.
 <br>This can also be used to preview your fork by changing `kzglobalteam` in the URL to your account name.
+
+## Run on Codeanywhere
+Codeanywhere offers a cloud-based development environment, allowing you to work on your project — no local setup required.
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/kzglobalteam/docs)
