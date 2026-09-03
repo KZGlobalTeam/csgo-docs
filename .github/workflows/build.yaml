@@ -1,10 +1,8 @@
 name: build
 
 on:
-  workflow_run:
-    types: [completed]
+  push:
     branches: [master]
-    workflows: [lint-typecheck]
 
 jobs:
   fail:
