@@ -7,6 +7,9 @@ export default defineConfig({
   base: "/csgo-docs/",
   srcDir: "docs",
 
+  cleanUrls: true,
+  metaChunk: true,
+
   themeConfig: {
     nav: nav(),
     sidebar: sidebar(),
@@ -18,7 +21,7 @@ export default defineConfig({
 
     editLink: {
       text: "View this page on GitHub",
-      pattern: "https://github.com/KZGlobalTeam/docs/edit/master/docs/:path",
+      pattern: "https://github.com/KZGlobalTeam/csgo-docs/edit/master/docs/:path",
     },
   },
 });

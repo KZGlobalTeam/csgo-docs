@@ -8,7 +8,7 @@ description: Guide for GOKZ on how to get your server globally whitelisted
 - Server owners cannot be globally banned or have a previous global ban.
 - Must not be a LAN or locally-hosted server. Regardless of whether it's open to the public.
 - If the server is going to be password protected or SteamID/group whitelisted, then replay bot files must be accessible to the Global Team. The Global Team must be able to access the server (add them to the whitelist or share the password).
-- You have read, understood and comply with the [Global Server Owner Code of Conduct](https://forum.gokz.org/p/server-rules).
+- You have read, understood and comply with the [Server Owner Rules](https://l.global-kz.net/server-owner-rules).
 
 ## Before you begin
 
@@ -68,7 +68,7 @@ You <span style="color: #FF0B00">X</span><br>
 
 ## 4. Verify configuration of the server
 
-Install the [KZ Server Advisor Plugin](https://bitbucket.org/kztimerglobalteam/kzserveradvisor).
+Install the [KZ Server Advisor Plugin](https://github.com/KZGlobalTeam/csgo-kz-server-advisor).
 
 Use the `sm_kzserveradvisor_gokz` command.
 
@@ -89,9 +89,7 @@ Rectify any issues and run the command again.
 
 ## 6. Posting an application
 
-1. Login to the [GOKZ forum](https://forum.gokz.org/login).
-2. Start a discussion in the [Server Application](https://forum.gokz.org/t/ss-application) section.
-3. Title the application as your server's name.
-4. Replace the post content with your information.
+1. Login to the [forums](https://forum.global-kz.net).
+2. Follow the instructions on the [CSGO Server Application wizard](https://forum.global-kz.net/w/csgo-global-server-application).
 
 The Global Team will then review your application and advise you further if necessary.
