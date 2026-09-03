@@ -20,9 +20,9 @@ If you have any suggestions to the documentation, please don't hesitate to [open
 
 ## Running on StackBlitz
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/kzglobalteam/docs)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/kzglobalteam/csgo-docs)
 
 StackBlitz lets you easily play around with the project without setting up a local environment for the project.
 
-The project can imported with: <https://stackblitz.com/github/kzglobalteam/docs>.
+The project can imported with: <https://stackblitz.com/github/kzglobalteam/csgo-docs>.
 <br>This can also be used to preview your fork by changing `kzglobalteam` in the URL to your account name.

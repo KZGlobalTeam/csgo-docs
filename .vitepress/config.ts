@@ -15,13 +15,13 @@ export default defineConfig({
     sidebar: sidebar(),
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/KZGlobalTeam/docs" },
+      { icon: "github", link: "https://github.com/KZGlobalTeam/csgo-docs" },
       { icon: "discord", link: "https://discord.gg/csgokz" },
     ],
 
     editLink: {
       text: "View this page on GitHub",
-      pattern: "https://github.com/KZGlobalTeam/csgo-docs/edit/master/docs/:path",
+      pattern: "https://github.com/KZGlobalTeam/csgo-docs/edit/master/csgo-docs/:path",
     },
   },
 });
