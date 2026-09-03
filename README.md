@@ -1,7 +1,7 @@
 # CSGO KZ Docs
 
 Documentation for CSGO Kreedz related things, including but not limited to guides.
-> <https://kzglobalteam.github.io/docs/>
+> <https://kzglobalteam.github.io/csgo-docs/>
 
 ![Build status](https://img.shields.io/github/actions/workflow/status/kzglobalteam/docs/build.yaml?branch=master&style=for-the-badge&color=3eaf7c)
 ![Open issues](https://img.shields.io/github/issues/kzglobalteam/docs?style=for-the-badge&color=3eaf7c)
@@ -13,8 +13,8 @@ If you have any suggestions to the documentation, please don't hesitate to [open
 
 ## Running locally
 
-1. Clone the project `git clone https://github.com/KZGlobalTeam/docs.git csgo-kz-docs`.
-2. Navigate to the project directory `cd csgo-kz-docs`.
+1. Clone the project `git clone https://github.com/KZGlobalTeam/csgo-docs.git`.
+2. Navigate to the project directory `cd csgo-docs`.
 3. Install NodeJS dependencies `npm install`.
 4. Start the dev server: `npm run dev`.
 5. Navigate to `http://localhost:3000` on your browser.

@@ -4,7 +4,7 @@ export default defineConfig({
   title: "CS:GO KZ Docs",
   description: "CS:GO Kreedz documentation",
 
-  base: "/docs/",
+  base: "/csgo-docs/",
   srcDir: "docs",
 
   themeConfig: {
@@ -25,7 +25,7 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: "Forums", link: "https://forum.gokz.org" },
+    { text: "Forums", link: "https://forum.global-kz.net" },
     { text: "Portal", link: "https://portal.global-api.com" },
   ];
 }
