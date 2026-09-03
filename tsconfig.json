@@ -1,18 +1,14 @@
 {
+  "extends": "@vue/tsconfig/tsconfig.dom.json",
+  "include": ["docs/**/*.ts", "docs/**/*.vue"],
   "compilerOptions": {
-    "outDir": "dist",
-    "target": "esnext",
-    "module": "esnext",
-    "moduleResolution": "node",
+    "lib": ["ESNext", "DOM"],
 
-    "strict": true,
-    "skipLibCheck": true,
-    "esModuleInterop": true,
-    "resolveJsonModule": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "erasableSyntaxOnly": true,
+    "noFallthroughCasesInSwitch": true,
 
-    "jsx": "preserve",
-    "types": ["vitepress/client"],
-  },
-
-  "include": ["docs/**/*", "components/**/*", ".vitepress/**/*"]
+    "types": ["vitepress/client"]
+  }
 }
